@@ -17,7 +17,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛍️ **Perfect Pick** | Production e-commerce app for a family retail store — M-Pesa STK Push, Firebase Auth, Cloudinary, per-variant inventory | React · Node/Express · MongoDB · Daraja API · Vercel/Koyeb |
+| 🛍️ **Perfect Pick** | Production e-commerce app for a family retail store — M-Pesa STK Push, Firebase Auth, Cloudinary, per-variant inventory | React · Node/Express · MongoDB · Paystack API · Vercel/Render |
 | 🏥 **MedAssist** | Healthcare app with weighted symptom checker, OpenFDA drug warnings, BMI calculator, health journal | Flask · SQLite · Bootstrap 5 · pytest · Render |
 | ⚽ **FantasyDash** | Full-stack fantasy sports platform for EPL & NBA — drag-and-drop formation, live standings engine | React · Node/Express · MongoDB · Firebase · Railway |
 | 🎧 **SoundSync** | DJ web app with multi-page JS/HTML, Web Audio API, Deezer integration, Firebase Auth | HTML/CSS/JS · Web Audio API · Spotify API · Firebase |
