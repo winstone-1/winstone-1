@@ -1,4 +1,4 @@
-# Hi there, I'm Winstone Mwangi 👋
+# Hi , I'm Winstone Mwangi 👋
 
 > BSD Software Developer · KCA  via Zindua School · Full-stack · 
 
