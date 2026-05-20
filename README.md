@@ -1,39 +1,40 @@
-# Hi , I'm Winstone Mwangi 👋
+# Winstone Mwangi
 
-> BSD Software Developer · KCA  via Zindua School · Full-stack · 
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building a **Calorie Counter** web app with Django + PostgreSQL
-- 🌱 Deepening skills in **Django**, **Python**, and full-stack architecture
-- 🎯 Goal: ship real products and eventually go self-employed
-- ⚡ Fun fact: the 2022/23 Man City away kit stays on during crunch commits
+**BSD Software Developer · KCA via Zindua School · Full-Stack**
 
 ---
 
-## 🛠️ Projects *(BSD   via Zindua School)*
+## About Me
+
+- Deepening skills in **Django**, **Python**, and full-stack architecture
+- Goal: ship real products and eventually go self-employed
+- Based in Nairobi, Kenya — Man City supporter, building through every season
+
+---
+
+## Projects *(BSD via Zindua School)*
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛍️ **Perfect Pick** | Production e-commerce app for a family retail store — M-Pesa STK Push, Firebase Auth, Cloudinary, per-variant inventory | React · Node/Express · MongoDB · Paystack API · Vercel/Render |
-| 🏥 **MedAssist** | Healthcare app with weighted symptom checker, OpenFDA drug warnings, BMI calculator, health journal | Flask · SQLite · Bootstrap 5 · pytest · Render |
-| ⚽ **FantasyDash** | Full-stack fantasy sports platform for EPL & NBA — drag-and-drop formation, live standings engine | React · Node/Express · MongoDB · Firebase · Railway |
-| 🎧 **SoundSync** | DJ web app with multi-page JS/HTML, Web Audio API, Deezer integration, Firebase Auth | HTML/CSS/JS · Web Audio API · Spotify API · Firebase |
+| **Perfect Pick** | Production e-commerce app for a family retail store. Features M-Pesa STK Push via Safaricom Daraja API, Firebase Auth with Google Sign-In, Cloudinary for images and video, per-variant inventory, sale banners, and role separation for admin and manager. Deployed on Vercel and Koyeb. | React + Vite + Tailwind · Node/Express · MongoDB Atlas · Firebase · Cloudinary · Vercel/Koyeb |
+| **MedAssist** | Healthcare web app with a weighted symptom checker, OpenFDA drug warnings integration, BMI calculator, and a health journal. Built over a four-day sprint with a 12-table SQLite schema and pytest coverage. Deployed on Render. | Flask · SQLite · Bootstrap 5 · pytest · Render |
+| **FantasyDash** | Full-stack fantasy sports platform for EPL and NBA. Features Firebase Auth, JWT sessions, drag-and-drop team formation, live standings recalculation, and a commissioner match management system. | React · Node/Express · MongoDB Atlas · Firebase · Railway/Vercel |
+| **SoundSync** | Browser-based DJ app with deck controls, Web Audio API mixing, and Deezer integration. Multi-page JS/HTML layout with Firebase Auth. | HTML/CSS/JS · Web Audio API · Deezer API · Firebase |
+| **Photo Gallery** | Django-based image upload and gallery management app. | Django · Python · PostgreSQL |
+| **Calorie Counter Max** | Django web app for tracking daily calorie intake and nutritional goals. | Django · Python · PostgreSQL |
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
-`Node.js/Express` · `MongoDB Atlas` · `React + Vite` · `Firebase Auth` · `Cloudinary` · `Flask` · `M-Pesa Daraja API`
-
----
-
-## 📫 Reach Me
-
-Via GitHub issues or discussions on any of my repos.
+`Node.js/Express` · `MongoDB Atlas` · `React + Vite` · `Firebase Auth` · `Cloudinary` · `Flask` · `M-Pesa Daraja API` · `Django` · `PostgreSQL`
 
 ---
 
-*Built in Nairobi 🇰🇪 · Supported by caffeine and Manchester City*
+## Reach Me
+
+Via GitHub issues or discussions on any of my repos — [`winstone-1`](https://github.com/winstone-1)
+
+---
+
+*Built in Nairobi, Kenya · Powered by caffeine and Manchester City*
