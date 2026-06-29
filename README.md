@@ -13,11 +13,11 @@
 
 ## About Me
 
-- 🎓 BSc Software Development — **KCA University** via **Zindua School**
-- 🛠️ Backend-first full-stack dev: **Django/DRF**, **React/Vite**, **Node/Express**
-- 🚀 Goal: ship real products, go self-employed
-- 🌍 Based in Nairobi, Kenya — Man City supporter, building through every season
-- 💬 Mentored by Ezekiel — full-stack dev specializing in Java Spring Boot, Kubernetes, microservices
+-  BSD Software Development — **KCA ** via **Zindua **
+-  Backend-first full-stack dev: **Django/DRF**, **React/Vite**, **Node/Express**
+-  Goal: ship real products, go self-employed
+-  Based in Nairobi, Kenya — Man City supporter, building through every season
+-  Mentored by Ezekiel — full-stack dev specializing in Java Spring Boot, Kubernetes, microservices
 
 ---
 
@@ -60,19 +60,19 @@
 
 ## Featured Projects
 
-### 🛡️ AmakaziWatch — *DRF Backend Capstone*
+###  AmakaziWatch — *DRF  Capstone*
 Kenya's first crowdsourced GBV awareness and reporting platform, built for survivors, NGOs, and county governments. 5-role RBAC system, AI-powered intelligence module (Groq/LLaMA 3.3 70B), and integrated SMS/USSD/WhatsApp reporting.
 
 `Django 5` `DRF` `PostgreSQL` `SimpleJWT` `Groq API` `Africa's Talking` `Paystack` `Cloudinary` `Redis` `drf-spectacular`
 
-### 🌱 RootNode (Eco-Track) — *Africa Youth Skilling Conference Hackathon*
+###  RootNode (Eco-Track, Agri-map) — *Africa Youth Skilling Conference Hackathon*
 AI-powered agricultural mapping and soil intelligence platform for smallholder farming cooperatives, using Sentinel-2 satellite imagery. Built and deployed live at the Climate Hackathon, Sarit Expo Centre.
 
 `Node.js` `Express` `Sentinel-2 Imagery` `Render`
 
 ---
 
-## Project Portfolio *(BSD via Zindua School)*
+## Project Portfolio *(BSD via Zindua )*
 
 | Project | Description | Stack |
 |---|---|---|
