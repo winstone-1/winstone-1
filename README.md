@@ -13,7 +13,7 @@
 
 ## About Me
 
--  BSD Software Development — **KCA ** via **Zindua **
+-  BSD Software Dev
 -  Backend-first full-stack dev: **Django/DRF**, **React/Vite**, **Node/Express**
 -  Goal: ship real products, go self-employed
 -  Based in Nairobi, Kenya — Man City supporter, building through every season
