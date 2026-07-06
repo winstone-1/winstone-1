@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/29482420/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6DD5FA&height=200&section=header&text=Winstone%20Mwangi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Django%20%26%20React%20%7C%20Nairobi%2C%20Kenya&descAlignY=55&descSize=18" width="100%"/>
+
 
 <a href="https://github.com/winstone-1">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+real+products,+not+just+demos;Django+%2B+DRF+%7C+React+%2F+Vite+%7C+Node%2FExpress;Currently+shipping+AmakaziWatch+%26+RootNode;Manchester+City+%E2%9A%BD+%7C+Nairobi%2C+Kenya&font=Fira+Code&center=true&width=600&height=50&color=1E90FF&vCenter=true&size=20" />
@@ -13,26 +13,15 @@
 
 ## About Me
 
--  BSD Software Dev
+-   Software Dev
 -  Backend-first full-stack dev: **Django/DRF**, **React/Vite**, **Node/Express**
--  Goal: ship real products, go self-employed
+-  Goal: ship real products, go self-employed, Have a startup
 -  Based in Nairobi, Kenya — Man City supporter, building through every season
--  Mentored by Ezekiel — full-stack dev specializing in Java Spring Boot, Kubernetes, microservices
+-  Mentored by Ezekiel.
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=winstone-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=winstone-1&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winstone-1&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## Tech Stack
 
@@ -65,18 +54,18 @@ Kenya's first crowdsourced GBV awareness and reporting platform, built for survi
 
 `Django 5` `DRF` `PostgreSQL` `SimpleJWT` `Groq API` `Africa's Talking` `Paystack` `Cloudinary` `Redis` `drf-spectacular`
 
-###  RootNode (Eco-Track, Agri-map) — *Africa Youth Skilling Conference Hackathon*
+###  RootNode (Eco-Track, Agri-map) — Group projects
 AI-powered agricultural mapping and soil intelligence platform for smallholder farming cooperatives, using Sentinel-2 satellite imagery. Built and deployed live at the Climate Hackathon, Sarit Expo Centre.
 
 `Node.js` `Express` `Sentinel-2 Imagery` `Render`
 
 ---
 
-## Project Portfolio *(BSD via Zindua )*
+## Project Portfolio
 
 | Project | Description | Stack |
 |---|---|---|
-| **Perfect Pick** | Production e-commerce app for a family retail store. M-Pesa STK Push (Daraja API), Firebase Auth w/ Google Sign-In, Cloudinary, per-variant inventory, role separation for admin/manager. | React · Vite · Tailwind · Node/Express · MongoDB Atlas · Firebase · Cloudinary · Vercel/Koyeb |
+| **Perfect Pick** | Production e-commerce app for a family retail store. M-Pesa STK Push (Paystack API), Firebase Auth w/ Google Sign-In, Cloudinary, per-variant inventory, role separation for admin/manager. | React · Vite · Tailwind · Node/Express · MongoDB Atlas · Firebase · Cloudinary · Vercel/Koyeb |
 | **FantasyDash** | Full-stack fantasy sports platform for EPL and NBA. Firebase Auth, JWT sessions, drag-and-drop formation, live standings, commissioner match management. | React · Node/Express · MongoDB Atlas · Firebase · Railway/Vercel |
 | **MedAssist** | Healthcare app with weighted symptom checker, OpenFDA drug warnings, BMI calculator, health journal. 12-table SQLite schema, pytest coverage. | Flask · SQLite · Bootstrap 5 · pytest · Render |
 | **SoundSync** | Browser-based DJ app with deck controls, Web Audio API mixing, Deezer integration. | HTML/CSS/JS · Web Audio API · Deezer API · Firebase |
@@ -99,6 +88,6 @@ Via GitHub issues or discussions on any of my repos
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=winstone-1&color=1E90FF&style=flat-square&label=Profile+Views)
 
-*Built in Nairobi, Kenya · Powered by caffeine and Manchester City* ⚽
+*Built in Nairobi, Kenya · Powered by caffeine and Manchester City* 
 
 </div>
