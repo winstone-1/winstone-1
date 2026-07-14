@@ -17,7 +17,6 @@
 -  Backend-first full-stack dev: **Django/DRF**, **React/Vite**, **Node/Express**
 -  Goal: ship real products, go self-employed, Have a startup
 -  Based in Nairobi, Kenya — Man City supporter, building through every season
--  Mentored by Ezekiel.
 
 ---
 
